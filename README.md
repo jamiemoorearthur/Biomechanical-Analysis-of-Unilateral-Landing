@@ -40,6 +40,7 @@ Key Engineering Findings
 → Indicates differences in force vector application and system loading
 ❌ No significant difference in joint kinematics (knee varus)
 → Suggests geometric similarity despite dynamic differences
+
 🧠 Engineering Interpretation
 The system (human body) maintains kinematic consistency while allowing kinetic variability
 Asymmetry originates during force generation (take-off phase), affecting downstream system behaviour
