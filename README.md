@@ -36,11 +36,7 @@ Joint moments normalised to body mass (Nm/kg)
 Trial averaging for reliability
 
 Analysis of kinematic data showed no significant differences between dominant and non-dominant limbs for both knee varus and knee flexion during unilateral landing.
-As illustrated in Figure 1, mean values for knee varus and knee flexion were comparable across limbs, with overlapping variability, indicating symmetrical joint kinematics.
-This suggests that, despite differences observed in kinetic measures (e.g., COP), movement patterns at the joint level remained consistent, highlighting a potential limitation of kinematic variables in detecting inter-limb asymmetry.
-
-Figure 1
-
+Figure 1:
 Comparison of knee varus and knee flexion between dominant and non-dominant limbs (mean ± SD). No significant differences were observed (p > 0.05).
-
+As illustrated in Figure 1, mean values for knee varus and knee flexion were comparable across limbs, with overlapping variability, indicating symmetrical joint kinematics.
 
