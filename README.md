@@ -35,22 +35,12 @@ Joint kinematics (angles)
 Joint moments normalised to body mass (Nm/kg)
 Trial averaging for reliability
 
-Key Engineering Findings
-✅ Significant asymmetry in COP position
-→ Indicates differences in force vector application and system loading
-❌ No significant difference in joint kinematics (knee varus)
-→ Suggests geometric similarity despite dynamic differences
+Analysis of kinematic data showed no significant differences between dominant and non-dominant limbs for both knee varus and knee flexion during unilateral landing.
+As illustrated in Figure 1, mean values for knee varus and knee flexion were comparable across limbs, with overlapping variability, indicating symmetrical joint kinematics.
+This suggests that, despite differences observed in kinetic measures (e.g., COP), movement patterns at the joint level remained consistent, highlighting a potential limitation of kinematic variables in detecting inter-limb asymmetry.
 
-🧠 Engineering Interpretation
-The system (human body) maintains kinematic consistency while allowing kinetic variability
-Asymmetry originates during force generation (take-off phase), affecting downstream system behaviour
+Figure 1
 
-➡️ Key Insight:
+Comparison of knee varus and knee flexion between dominant and non-dominant limbs (mean ± SD). No significant differences were observed (p > 0.05).
 
-Dynamic loading conditions can differ significantly even when structural motion appears symmetrical
-
-🚀 Engineering Applications
-Biomedical Engineering: Injury risk modelling, prosthetics, rehabilitation systems
-Mechanical Engineering: Multi-body dynamics, load distribution analysis
-Data Science / Analytics: Time-series analysis, signal processing, modelling complex systems
 
